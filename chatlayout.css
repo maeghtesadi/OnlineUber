@@ -1,0 +1,20 @@
+table {border-collapse: collapse; width: 50%;}
+th, td {padding: 8px;text-align: left;border-bottom: 1px solid #ddd;}
+h1 {padding-left: 15px;}
+
+input[type=text], input[type=password], input[type=date],input[type=number], input[type=time]{width: 100%;padding: 6px 5px;margin: 8px 0;display: inline-block;border: 1px solid #ccc;border-radius: 4px;}
+input[type=submit] {width: 30%;background-color: #4CAF50;color: white;padding: 14px 20px;margin: 8px 0;border: 4px;}
+input[type=submit]:hover {background-color: #45a049;}
+div {border-radius: 5px;background-color: #f2f2f2;padding: 5px; width: 50%; display: inline-block;}
+
+
+textarea {width: 300px; height: 100px; resize: none;}
+	  	h3 {color: red;}
+	  	input[type=submit] {width: 10%;}
+
+		.bubble {width: 477px;
+		background: url('bubblebg.png') no-repeat;
+		background-position: 100% 100%;}
+		.bubbleHeader {height: 20px;background: url('bubblebg.png') no-repeat;background-position: 100% 0;}
+		.bubbleInner {padding: 5px;}
+
